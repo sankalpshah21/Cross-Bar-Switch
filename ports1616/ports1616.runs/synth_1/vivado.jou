@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Fri Dec 29 15:10:49 2017
+# Process ID: 5308
+# Current directory: D:/vhdl/ports1616/ports1616.runs/synth_1
+# Command line: vivado.exe -log port16.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source port16.tcl
+# Log file: D:/vhdl/ports1616/ports1616.runs/synth_1/port16.vds
+# Journal file: D:/vhdl/ports1616/ports1616.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source port16.tcl -notrace
